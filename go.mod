@@ -1,4 +1,4 @@
-module 4d63.com/wait
+module 4d63.com/tcpwait
 
 go 1.17
 
